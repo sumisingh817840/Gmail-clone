@@ -23,7 +23,7 @@ const Navbar = () => {
 
       </div>
 
-      <div className='w-[60%] mr-30'>
+      <div className='w-[60%] ml-25 mr-25'>
         <div className='flex items-center rounded-full px-2 py-3 bg-[#eaf1fb]'>
           <IoMdSearch className='text-gray-700' size={'24px'} />
           <input type="text" placeholder='Search Mail' className='rounded-full bg-transparent outline-none px-1 w-full' />
